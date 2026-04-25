@@ -19,7 +19,7 @@ That's exactly why this project is divided into **three distinct sections**:
 
 In 2025, Uttarakhand saw **6+ crore visitors** — and still, there are villages where you can walk for hours without seeing a soul.
 
-> *কিছু জায়গা আছে যেগুলো ঘোরার জন্য নয়, অনুভব করার জন্য — Uttarakhand সেই জায়গাগুলোর মধ্যে একটা।*
+> *কিছু জায়গা আছে যেগুলো ঘোরার জন্য নয়, অনুভব করার জন্য — Uttarakhand সেই জায়গাগুলোর[...]
 
 ---
 
@@ -239,7 +239,7 @@ It’s to experience them **the right way, at the right time.**
 | Haridwar | Ganga Aarti, temples, spiritual rituals | Extreme crowd in peak season, chaotic ghats | Raw spiritual energy — something you *feel*, not just see | 1–3 | 12k–22k |
 | Rishikesh | Yoga capital, river rafting, cafes | Increasing commercialization, losing old calm | Rare mix of adventure + spirituality + chill vibe | 2–5 | 14k–28k |
 | Auli | Skiing, snow views, cable car, Nanda Devi range | Expensive, seasonal dependency, crowd in winter | Best snow + ski destination in India — clean and scenic | 2–4 | 22k–45k |
-| Kedarnath | Jyotirlinga, spiritual trek, dramatic setting | Overcrowding, pollution, long exhausting trek | One of the most powerful spiritual journeys — if done with patience | 2–4 | 20k–40k |
+| Kedarnath | Jyotirlinga, spiritual trek, dramatic setting | Overcrowding, pollution, long exhausting trek | One of the most powerful spiritual journeys — if done with patience | 2–4 | 20k–40k [...] |
 | Badrinath | Vishnu temple, valley views, Char Dham circuit | Seasonal rush, limited time window | Completes the Char Dham — peaceful if timed right | 1–4 | 18k–35k |
 
 ### 🧠 My Honest Take on Popular Places
@@ -281,7 +281,7 @@ Otherwise, there are places where Uttarakhand feels more real.
 
 | Trek Name | Why People Do It | Why People Avoid It | Why You SHOULD Do It | Difficulty | Solo / Team | Days | Budget (₹/person) |
 |---|---|---|---|---|---|---|---|
-| Valley of Flowers + Hemkund | Unique alpine blooms, spiritual lake | Short season, crowd, altitude | Nature at its purest — once-in-a-lifetime bloom | Moderate | Team preferred | 4–6 | 18k–30k |
+| Valley of Flowers + Hemkund | Unique alpine blooms, spiritual lake | Short season, crowd, altitude | Nature at its purest — once-in-a-lifetime bloom | Moderate | Team preferred | 4–6 | 18k–30k[...] |
 | Kedarkantha | Best beginner snow trek | Cold, crowded in peak season | Perfect first Himalayan summit experience | Moderate | Solo/Team | 4–6 | 12k–22k |
 | Dayara Bugyal | Vast meadows, peaceful | Remote, less facilities | True Himalayan silence without extreme risk | Moderate | Solo possible | 4–6 | 18k–28k |
 | Har Ki Dun | Valley + villages | Long duration | Culture + nature combo trek | Moderate–Hard | Team preferred | 5–8 | 20k–35k |
@@ -313,7 +313,7 @@ Then it becomes mental.
 
 | Trek | Why People Do It | Why People Avoid It | Why You SHOULD Do It | Difficulty | Days | Budget (₹) |
 |---|---|---|---|---|---|---|
-| Kalindi Khal | Ultimate Himalayan challenge, glacier traverse | Requires technical skills, extreme altitude (~19,500 ft), high risk | One of the toughest treks in India — proves your true capability | Extreme | 10–14 | 50k–90k+ |
+| Kalindi Khal | Ultimate Himalayan challenge, glacier traverse | Requires technical skills, extreme altitude (~19,500 ft), high risk | One of the toughest treks in India — proves your true capabili[...] |
 | Auden’s Col | Raw, untouched glacier route | Crevasses, rope work, dangerous navigation | For serious trekkers — rare and elite experience | Extreme | 12–16 | 60k–1L+ |
 | Pin Parvati Pass | Landscape transition (green → cold desert) | Long duration, unpredictable weather | One of the most diverse and rewarding treks in India | Extreme | 10–14 | 45k–80k+ |
 | Nanda Devi East Base Camp | Close views of one of India’s highest peaks | Restricted access, long remote expedition | Spiritual + mountaineering feel combined | Extreme | 10–14 | 50k–85k |
@@ -596,9 +596,12 @@ Trekking exposes you.
 
 ---
 
-## 🤨 “I Hate Trekking” — Haan Haan, Sab Bolte Hai…
+## 🤨 “আমি ট্রেকিং পছন্দ করি না” — সবাই শুরুতে এটাই বলে
 
-Let me guess.
+চল সত্যি কথা বলি।
+
+তুই ট্রেকিং পছন্দ করিস না না —
+তুই কষ্ট পছন্দ করিস না।
 
 You don’t like trekking because:
 - “Bahut tiring hota hai”  
