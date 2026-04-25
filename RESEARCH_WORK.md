@@ -110,9 +110,3 @@ These demand physical fitness, acclimatization, and often guides/permits. They a
 - Blog on responsible tourism in fragile Himalayan ecosystem.  
 
 ---
-
-**Research compiled with effort for accuracy (as of 2026 insights).** Verify latest details before travel or development, as conditions (roads, permits, costs) change.  
-
-Perfect for your portfolio project! Feel free to expand with more places or images.
-
-If you need code snippets for displaying these tables, additional places, or help with the actual website structure, just let me know. Good luck with the project, Subhadip — it's going to look professional and well-researched! 🏔️
