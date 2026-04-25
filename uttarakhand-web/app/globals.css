@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #0d1b2a;
+  --bg-deep: #090f16;
+  --bg-closer: #060d14;
+  --text-primary: #f5f0e8;
+  --text-secondary: #c9c3b5;
+  --accent: #f2c94c;
+  --hidden-gems: #4a7c59;
+  --most-visited: #e07b39;
+  --explorer-trails: #5b8db8;
+  --ease-mountain: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@theme inline {
+  --font-sans: var(--font-montserrat);
+  --font-serif: var(--font-lora);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-montserrat), sans-serif;
+  cursor: none;
+}
+
+a,
+button {
+  cursor: none;
+}
+
+.section-shell {
+  width: min(1120px, calc(100% - 2.5rem));
+  margin-inline: auto;
+}
+
+.font-body {
+  font-family: var(--font-lora), serif;
+}
+
+.glow-card {
+  transition: transform 0.3s var(--ease-mountain), box-shadow 0.3s var(--ease-mountain);
+}
+
+.glow-card:hover {
+  transform: scale(1.03);
+}
+
+.mountain-cursor-dot {
+  position: fixed;
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background: var(--accent);
+  pointer-events: none;
+  z-index: 80;
+  transform: translate(-50%, -50%);
+}
+
+.mountain-cursor-ring {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  pointer-events: none;
+  z-index: 79;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.28s var(--ease-mountain), transform 0.28s var(--ease-mountain);
+}
+
+.mountain-cursor-ring.is-active {
+  opacity: 1;
+}
+
+.hero-particles {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.hero-particles span {
+  position: absolute;
+  width: var(--size);
+  height: var(--size);
+  border-radius: 999px;
+  background: var(--particle);
+  opacity: var(--alpha);
+  animation: drift var(--speed) linear infinite;
+}
+
+@keyframes drift {
+  from {
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    transform: translate3d(40px, -120vh, 0);
+  }
+}
+
+.leaflet-container {
+  background: var(--bg-deep);
+  border-radius: 14px;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #0d1b2a;
+  color: #f5f0e8;
+}
+
+@media (max-width: 768px) {
+  body,
+  a,
+  button {
+    cursor: auto;
+  }
+}
