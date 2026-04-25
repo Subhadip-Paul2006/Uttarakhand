@@ -792,9 +792,22 @@ It’s about:
 
 ---
 
-## Final Thought
+## 🧠 Final Reality
 
-> *If you're looking for comfort, Uttarakhand gives views.*
-> *If you're looking for growth, Uttarakhand gives challenges.*
+Uttarakhand is not for everyone.
+
+Some people will come here:
+- Take photos  
+- Post stories  
+- And leave unchanged  
+
+Others will come here:
+- Struggle  
+- Slow down  
+- And return different  
 
 ---
+
+> *পাহাড় কাউকে বদলায় না — সুযোগ দেয় বদলানোর।*
+
+> *তুই বদলাবি কিনা — সেটা পুরোপুরি তোর ওপর।*
